@@ -17,6 +17,6 @@ node {
     }
 node {
     stage('deploy to prod'){
-        echo "on production"
+        echo "deploying on prod"
     }
 }
